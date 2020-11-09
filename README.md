@@ -12,6 +12,8 @@ You make functions that are pure, re-usable and comfortable to read.
 This was really enlightening and fun. 
 
 I made a really simple sign up page with JS functional programming. 
-I tried my best to make the functions as pure as I could. 
+I tried my best to make the functions as pure as I could.
+
+Live: https://huldas96.github.io/Module_4_4/
 
 Thanks!
